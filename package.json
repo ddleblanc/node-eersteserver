@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "eerste server",
+  "main": "server-json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddleblanc/node-eersteserver.git"
+  },
+  "keywords": [
+    "node",
+    "server"
+  ],
+  "author": "Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddleblanc/node-eersteserver/issues"
+  },
+  "homepage": "https://github.com/ddleblanc/node-eersteserver#readme"
+}
